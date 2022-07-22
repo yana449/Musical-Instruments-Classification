@@ -1,1 +1,1 @@
-# Aayush_Geeksman_AI_Squad_Project1
+# This is an image classification project, which classifies musical instruments based upon the images, using tensorflow libraries.
